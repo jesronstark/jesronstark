@@ -32,6 +32,7 @@
 <a href="https://codepen.io/jesronstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jesronstark" height="30" width="40" /></a>
 <a href="https://dev.to/jesron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jesron" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jesronstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jesronstark" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jesron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jesron" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,3 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesronstark&show_icons=true&locale=en" alt="jesronstark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesronstark&" alt="jesronstark" /></p>
+
