@@ -5,25 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesronstark" alt="jesronstark" /></a> </p>
 
-- 🔭 I’m currently working on [new Projects](null)
-
-- 🌱 I’m currently learning **Ethical-hacking,Grapics-desinging**
-
-- 👯 I’m looking to collaborate on [new Projects](null)
-
-- 🤝 I’m looking for help with [Nemo](null)
-
-- 👨‍💻 All of my projects are available at [i am createing (On work going)](i am createing (On work going))
-
-- 📝 I regularly write articles on [i am createing (On work going)](i am createing (On work going))
-
-- 💬 Ask me about **react,vue and gbt,..etc**
-
-- 📫 How to reach me **jesronstark@gmail.com**
-
-- 📄 Know about my experiences [i am createing (On work going)](i am createing (On work going))
-
-### Blogs posts
+ 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
