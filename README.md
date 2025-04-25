@@ -8,7 +8,7 @@
  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<div style="display:flex">
+<div style="display: flex;">
 <div class="f1">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
