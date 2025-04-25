@@ -9,7 +9,7 @@
 
 <div style="text-align: center;">
   <div style="display: inline-block; background-color: lightblue;">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesronstark&" alt="jesronstark" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesronstark&" alt="jesronstark" /></p> <br>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesronstark&show_icons=true&locale=en&layout=compact" alt="jesronstark" /></p>
   </div>
 </div>
