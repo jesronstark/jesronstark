@@ -34,7 +34,7 @@
     </ul>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesronstark" alt="jesronstark" /></a> </p>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesronstark" alt="jesronstark" /></a> </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
   <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; min-width: 300px; flex: 1;">
