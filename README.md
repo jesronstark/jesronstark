@@ -6,46 +6,32 @@
 <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
   <h2 style="color: #4cc9f0; margin-bottom: 25px;">Technical Skills</h2>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-    <div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
-      <h3 style="color: #4361ee; margin-bottom: 15px;">🖥️ Frontend</h3>
-      <ul style="text-align: left; color: white;">
+ <div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
+    <h3 style="color: #4361ee; margin-bottom: 15px;">🖥️ Frontend</h3>
+    <ul style="text-align: left; color: white;"> 
         <li>ReactJS (Hooks, Context, Redux)</li>
         <li>Styled-components & TailwindCSS</li>
         <li>HTML5, CSS3, JavaScript (ES6+)</li>
-      </ul>
-       <ul style="text-align: left; color: white;">
+    </ul>
+</div>
+
+<div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
+    <h3 style="color: #4361ee; margin-bottom: 15px;">🔙 Backend</h3>
+    <ul style="text-align: left; color: white;"> 
         <li>Java (Spring Boot)</li>
         <li>Node.js (Express, NestJS)</li>
         <li>PostgreSQL, MongoDB</li>
         <li>Kafka, Elasticsearch</li>
-      </ul>
-       <ul style="text-align: left; color: white;">
+    </ul>
+</div>
+
+<div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
+    <h3 style="color: #4361ee; margin-bottom: 15px;">☁️ DevOps</h3>
+    <ul style="text-align: left; color: white;"> 
         <li>AWS (EC2, Lambda, S3, RDS)</li>
         <li>Docker, Terraform</li>
         <li>CI/CD (GitHub Actions, CodePipeline)</li>
-      </ul>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
-      <h3 style="color: #4361ee; margin-bottom: 15px;">🔙 Backend</h3>
-      <ul style="text-align: left; color: white;">
-        <li>Java (Spring Boot)</li>
-        <li>Node.js (Express, NestJS)</li>
-        <li>PostgreSQL, MongoDB</li>
-        <li>Kafka, Elasticsearch</li>
-      </ul>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
-      <h3 style="color: #4361ee; margin-bottom: 15px;">☁️ DevOps</h3>
-      <ul style="text-align: left; color: white;">
-        <li>AWS (EC2, Lambda, S3, RDS)</li>
-        <li>Docker, Terraform</li>
-        <li>CI/CD (GitHub Actions, CodePipeline)</li>
-      </ul>
-    </div>
-  </div>
+    </ul>
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesronstark" alt="jesronstark" /></a> </p>
