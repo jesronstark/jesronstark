@@ -8,7 +8,7 @@
   
  <div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
     <h3 style="color: #4361ee; margin-bottom: 15px;">🖥️ Frontend</h3>
-    <ul style="text-align: left; color: white;"> 
+    <ul style="text-align: left; list-style-type: none; color: white;"> 
         <li>ReactJS (Hooks, Context, Redux)</li>
         <li>Styled-components & TailwindCSS</li>
         <li>HTML5, CSS3, JavaScript (ES6+)</li>
@@ -17,7 +17,7 @@
 
 <div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
     <h3 style="color: #4361ee; margin-bottom: 15px;">🔙 Backend</h3>
-    <ul style="text-align: left; color: white;"> 
+    <ul style="text-align: left; list-style-type: none; color: white;"> 
         <li>Java (Spring Boot)</li>
         <li>Node.js (Express, NestJS)</li>
         <li>PostgreSQL, MongoDB</li>
@@ -27,7 +27,7 @@
 
 <div style="background: rgba(255,255,255,0.08); padding: 20px; border-radius: 10px; min-width: 250px;">
     <h3 style="color: #4361ee; margin-bottom: 15px;">☁️ DevOps</h3>
-    <ul style="text-align: left; color: white;"> 
+    <ul style="text-align: left; list-style-type: none; color: white;"> 
         <li>AWS (EC2, Lambda, S3, RDS)</li>
         <li>Docker, Terraform</li>
         <li>CI/CD (GitHub Actions, CodePipeline)</li>
